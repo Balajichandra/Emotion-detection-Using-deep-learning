@@ -97,7 +97,7 @@ The following preprocessing tasks are developed for each image:
 
 # CNN Model:
 
-&#x270D;The idea is to develop a simple CNN model from scratch, and evaluate the performance to set a baseline. The following steps to improve the model are:
+&#x270D;The idea is to develop a simple CNN model from scratch, and evaluate the performance to set a baseline. The following steps to improve the model are:<br>
             &#x1F526;Data augmentation: Rotations, noising, scaling to avoid overfitting.<br>
              &#x1F526;Transferred Learning: Using a pre-trained network construct some additional layer at the end to   fine tuning our model.
 
