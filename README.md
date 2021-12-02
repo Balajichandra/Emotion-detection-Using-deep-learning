@@ -77,7 +77,7 @@ Each class contian with 50 images in each folder. So we have 203 images for trai
 
 
 ![s011_002_00000016](https://user-images.githubusercontent.com/29342294/49693070-32da4480-fb2f-11e8-9375-9652ce37704f.png)
-<h1>5- Sample images of sorrow:</h1>
+<h1>5- Sample images of suprise:</h1>
 
 
 
